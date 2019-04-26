@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 2019-03-28_14-41-22)(type Legacy)(uri ${KIPRJMOD}/lib/ul_LT3483AEDCTRPBF/KiCAD/2019-03-28_14-41-22/2019-03-28_14-41-22.lib)(options "")(descr ""))
+  (lib (name LT3483)(type Legacy)(uri C:/Users/somme/Dropbox/KiCad/LT3483/lib/LT3483.lib)(options "")(descr ""))
+)

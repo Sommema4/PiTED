@@ -1,2 +1,0 @@
-# PiTED
-PiTED detector
