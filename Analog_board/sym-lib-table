@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name OPA656)(type Legacy)(uri C:/Users/somme/Dropbox/KiCad/Analog_board/OPA656.lib)(options "")(descr ""))
+  (lib (name ADA4932-1)(type Legacy)(uri C:/Users/somme/Dropbox/KiCad/Analog_board/ADA4932-1.lib)(options "")(descr ""))
+  (lib (name OPA698)(type Legacy)(uri C:/Users/somme/Dropbox/KiCad/Analog_board/OPA698.lib)(options "")(descr ""))
+  (lib (name TPS65133)(type Legacy)(uri C:/Users/somme/Dropbox/KiCad/Analog_board/TPS65133.lib)(options "")(descr ""))
+  (lib (name LMH6553)(type Legacy)(uri C:/Users/somme/Dropbox/KiCad/Analog_board/LMH6553.lib)(options "")(descr ""))
+  (lib (name MICROFC-SMTPA-60035-GEVB)(type Legacy)(uri C:/Users/somme/Dropbox/KiCad/Analog_board/MICROFC-SMTPA-60035-GEVB.lib)(options "")(descr ""))
+  (lib (name lt6015)(type Legacy)(uri C:/Users/somme/Dropbox/KiCad/Analog_board/lt6015.lib)(options "")(descr ""))
+  (lib (name 2019-04-16_13-26-05)(type Legacy)(uri ${KIPRJMOD}/ul_CAT5140ZI00GT3/KiCAD/2019-04-16_13-26-05/2019-04-16_13-26-05.lib)(options "")(descr ""))
+  (lib (name TMP1075)(type Legacy)(uri C:/Users/somme/Dropbox/KiCad/Analog_board/TMP1075.lib)(options "")(descr ""))
+  (lib (name MCP3021)(type Legacy)(uri C:/Users/somme/Dropbox/KiCad/Analog_board/MCP3021.lib)(options "")(descr ""))
+)
