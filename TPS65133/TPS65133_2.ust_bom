@@ -1,0 +1,132 @@
+[
+    {
+        "Datasheet": "~", 
+        "Footprint": "", 
+        "Ref": "C1", 
+        "Tstamp": "5CD1EAEE", 
+        "Value": "GRM21BR71E104KA01"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C2", 
+        "Tstamp": "5CCA5D0F", 
+        "Value": "GRM21BR71A106KE5"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C3", 
+        "Tstamp": "5CCA020E", 
+        "Value": "GRM21BR71A106KE5"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C4", 
+        "Tstamp": "5CCAD918", 
+        "Value": "GRM21BR71A106KE5"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C5", 
+        "Tstamp": "5CE67F0B", 
+        "Value": "GRM21BR71E104KA01"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C6", 
+        "Tstamp": "5CE70361", 
+        "Value": "GRM21BR71E104KA01"
+    }, 
+    {
+        "Datasheet": "http://www.ti.com/lit/ds/symlink/tps65133.pdf", 
+        "Description": "Split-Rail Converter, +/-5V, 250mA Dual Output Power Supply", 
+        "Footprint": "SamacSys_Parts:SON45P300X300X80-13N-D", 
+        "Height": "0.8", 
+        "Manufacturer_Name": "Texas Instruments", 
+        "Manufacturer_Part_Number": "TPS65133DPDR", 
+        "Mouser Part Number": "595-TPS65133DPDR", 
+        "Mouser Price/Stock": "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TPS65133DPDR", 
+        "Ref": "IC1", 
+        "Tstamp": "5CC9FF14", 
+        "Value": "TPS65133DPDR"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.00mm:PinHeader_2x03_P2.00mm_Vertical", 
+        "Ref": "J1", 
+        "Tstamp": "5CCA0A41", 
+        "Value": "Conn_02x03_Odd_Even"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.00mm:PinHeader_2x03_P2.00mm_Vertical", 
+        "Ref": "J2", 
+        "Tstamp": "5CCA7430", 
+        "Value": "Conn_02x03_Odd_Even"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.00mm:PinHeader_2x03_P2.00mm_Vertical", 
+        "Ref": "J3", 
+        "Tstamp": "5CCB05A5", 
+        "Value": "Conn_02x03_Odd_Even"
+    }, 
+    {
+        "Datasheet": "https://componentsearchengine.com/Datasheets/1/1239AS-H-4R7M=P2.pdf", 
+        "Description": "Fixed Inductors 4.7uH 240mOhms1.5A +/-20% 2.5x2.0x1.2mm", 
+        "Footprint": "SamacSys_Parts:1239AS-H-4R7M=P2", 
+        "Height": "1.2", 
+        "Manufacturer_Name": "Murata Electronics", 
+        "Manufacturer_Part_Number": "1239AS-H-4R7M=P2", 
+        "Mouser Part Number": "81-1239AS-H-4R7MP2", 
+        "Mouser Price/Stock": "https://www.mouser.com/Search/Refine.aspx?Keyword=81-1239AS-H-4R7MP2", 
+        "Ref": "L1", 
+        "Tstamp": "5CCA0079", 
+        "Value": "1239AS-H-4R7M=P2"
+    }, 
+    {
+        "Datasheet": "https://componentsearchengine.com/Datasheets/1/1239AS-H-4R7M=P2.pdf", 
+        "Description": "Fixed Inductors 4.7uH 240mOhms1.5A +/-20% 2.5x2.0x1.2mm", 
+        "Footprint": "SamacSys_Parts:1239AS-H-4R7M=P2", 
+        "Height": "1.2", 
+        "Manufacturer_Name": "Murata Electronics", 
+        "Manufacturer_Part_Number": "1239AS-H-4R7M=P2", 
+        "Mouser Part Number": "81-1239AS-H-4R7MP2", 
+        "Mouser Price/Stock": "https://www.mouser.com/Search/Refine.aspx?Keyword=81-1239AS-H-4R7MP2", 
+        "Ref": "L2", 
+        "Tstamp": "5CCA00D1", 
+        "Value": "1239AS-H-4R7M=P2"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "MountingHole:MountingHole_3mm_Pad", 
+        "Ref": "MH1", 
+        "Tstamp": "5CCC785A", 
+        "Value": "MountingHole_Pad"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "MountingHole:MountingHole_3mm_Pad", 
+        "Ref": "MH2", 
+        "Tstamp": "5CCC78C6", 
+        "Value": "MountingHole_Pad"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "MountingHole:MountingHole_3mm_Pad", 
+        "Ref": "MH3", 
+        "Tstamp": "5CCC78F8", 
+        "Value": "MountingHole_Pad"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "MountingHole:MountingHole_3mm_Pad", 
+        "Ref": "MH4", 
+        "Tstamp": "5CCC7963", 
+        "Value": "MountingHole_Pad"
+    }
+]

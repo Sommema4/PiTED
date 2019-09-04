@@ -1,0 +1,7 @@
+"ID";"Určovatel";"Pouzdro";"Množství";"Určení";"Tisk rohového razítka";
+1;"L2,L1";"1239AS-H-4R7M=P2";2;"1239AS-H-4R7M=P2";;;
+2;"C1,C5,C6";"C_0805_2012Metric";3;"0.1uF";;;
+3;"C2,C3,C4";"C_0805_2012Metric";3;"10uF";;;
+4;"IC1";"SON45P300X300X80-13N-D";1;"TPS65133DPDR";;;
+5;"MH1,MH2,MH3,MH4";"MountingHole_3mm_Pad";4;"MountingHole_Pad";;;
+6;"J1,J2,J3";"PinHeader_2x03_P2.54mm_Vertical";3;"Conn_02x03_Odd_Even";;;

@@ -1,0 +1,597 @@
+[
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C1", 
+        "Tstamp": "5CB260AA", 
+        "Value": "10uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C2", 
+        "Tstamp": "5C9699EB", 
+        "Value": "1uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C3", 
+        "Tstamp": "5C9699E4", 
+        "Value": "0.01uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C4", 
+        "Tstamp": "5CB0ED1D", 
+        "Value": "100nF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C5", 
+        "Tstamp": "5C969A04", 
+        "Value": "0.1uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C6", 
+        "Tstamp": "5C969A0B", 
+        "Value": "10uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C7", 
+        "Tstamp": "5C969A28", 
+        "Value": "10uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C8", 
+        "Tstamp": "5C969A2F", 
+        "Value": "0.1uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C9", 
+        "Tstamp": "5C969A5A", 
+        "Value": "3pF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C10", 
+        "Tstamp": "5CB67D51", 
+        "Value": "10uF/50V"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C11", 
+        "Tstamp": "5CB96CE1", 
+        "Value": "1uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C12", 
+        "Tstamp": "5CC56147", 
+        "Value": "1uF/50V"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C13", 
+        "Tstamp": "5CBECDC3", 
+        "Value": "1uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C14", 
+        "Tstamp": "5CC00341", 
+        "Value": "0.1uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C15", 
+        "Tstamp": "5C9A6ECC", 
+        "Value": "10uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C16", 
+        "Tstamp": "5C9A6E5E", 
+        "Value": "0.1uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C17", 
+        "Tstamp": "5C9BF0BC", 
+        "Value": "10uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C18", 
+        "Tstamp": "5C9BF0B6", 
+        "Value": "0.1uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C19", 
+        "Tstamp": "5C9A2815", 
+        "Value": "0.1uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C20", 
+        "Tstamp": "5C9A27B1", 
+        "Value": "10uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C21", 
+        "Tstamp": "5C9BADB6", 
+        "Value": "0.1uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C22", 
+        "Tstamp": "5C9BADB0", 
+        "Value": "10uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical", 
+        "Ref": "J1", 
+        "Tstamp": "5CDA82E3", 
+        "Value": "Conn_02x03_Odd_Even"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical", 
+        "Ref": "J2", 
+        "Tstamp": "5CDC07D1", 
+        "Value": "Conn_02x03_Odd_Even"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical", 
+        "Ref": "J3", 
+        "Tstamp": "5CDA840E", 
+        "Value": "Conn_02x04_Odd_Even"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical", 
+        "Ref": "J4", 
+        "Tstamp": "5CDCB713", 
+        "Value": "Conn_02x03_Odd_Even"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical", 
+        "Ref": "J5", 
+        "Tstamp": "5CDD2B50", 
+        "Value": "Conn_02x03_Odd_Even"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical", 
+        "Ref": "J6", 
+        "Tstamp": "5CDD6F12", 
+        "Value": "Conn_02x03_Odd_Even"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical", 
+        "Ref": "J7", 
+        "Tstamp": "5CE43971", 
+        "Value": "Conn_02x04_Odd_Even"
+    }, 
+    {
+        "Datasheet": " ~", 
+        "Footprint": "Connector_Coaxial:BNC_TEConnectivity_1478204_Vertical", 
+        "Ref": "J8", 
+        "Tstamp": "5CB821AE", 
+        "Value": "Conn_Coaxial"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical", 
+        "Ref": "J9", 
+        "Tstamp": "5CD9BAEA", 
+        "Value": "Conn_01x03_Male"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical", 
+        "Ref": "J10", 
+        "Tstamp": "5CDA1617", 
+        "Value": "Conn_01x03_Male"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical", 
+        "Ref": "J11", 
+        "Tstamp": "5CE43797", 
+        "Value": "Conn_02x04_Odd_Even"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical", 
+        "Ref": "J12", 
+        "Tstamp": "5CE43D72", 
+        "Value": "Conn_01x02_Male"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical", 
+        "Ref": "J13", 
+        "Tstamp": "5CDC9FF8", 
+        "Value": "Conn_01x03_Female"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical", 
+        "Ref": "J14", 
+        "Tstamp": "5CDCB58A", 
+        "Value": "Conn_01x03_Female"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Jumper:SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm", 
+        "Ref": "JP1", 
+        "Tstamp": "5CA40E68", 
+        "Value": "Jumper_3_Open"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Jumper:SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm", 
+        "Ref": "JP2", 
+        "Tstamp": "5CB0CA72", 
+        "Value": "Jumper_3_Open"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm", 
+        "Ref": "JP3", 
+        "Tstamp": "5CC29DAE", 
+        "Value": "Jumper"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "MountingHole:MountingHole_3mm_Pad", 
+        "Ref": "MH1", 
+        "Tstamp": "5CE41F2D", 
+        "Value": "MountingHole_Pad"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "MountingHole:MountingHole_3mm_Pad", 
+        "Ref": "MH2", 
+        "Tstamp": "5CE41FBF", 
+        "Value": "MountingHole_Pad"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "MountingHole:MountingHole_3mm_Pad", 
+        "Ref": "MH3", 
+        "Tstamp": "5CE42005", 
+        "Value": "MountingHole_Pad"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "MountingHole:MountingHole_3mm_Pad", 
+        "Ref": "MH4", 
+        "Tstamp": "5CE42037", 
+        "Value": "MountingHole_Pad"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R1", 
+        "Tstamp": "5CC2D1E6", 
+        "Value": "10k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R2", 
+        "Tstamp": "5CC2D21A", 
+        "Value": "10k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R3", 
+        "Tstamp": "5CC4FB94", 
+        "Value": "10k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R4", 
+        "Tstamp": "5C9AFE0F", 
+        "Value": "10R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R5", 
+        "Tstamp": "5CB0E1F8", 
+        "Value": "1k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R6", 
+        "Tstamp": "5CB0B335", 
+        "Value": "100R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R7", 
+        "Tstamp": "5C969A53", 
+        "Value": "470R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R8", 
+        "Tstamp": "5CC0FCE5", 
+        "Value": "30k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R9", 
+        "Tstamp": "5CBAC4BD", 
+        "Value": "2.7k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R10", 
+        "Tstamp": "5CB97DB8", 
+        "Value": "120R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R11", 
+        "Tstamp": "5CAEFFF3", 
+        "Value": "4k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R12", 
+        "Tstamp": "5CAEFF87", 
+        "Value": "26k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R13", 
+        "Tstamp": "5C99AED2", 
+        "Value": "50R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R14", 
+        "Tstamp": "5C9CF693", 
+        "Value": "50R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R15", 
+        "Tstamp": "5C99C335", 
+        "Value": "24.9R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R16", 
+        "Tstamp": "5C99F712", 
+        "Value": "84.5R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R17", 
+        "Tstamp": "5C99B568", 
+        "Value": "16.5R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R18", 
+        "Tstamp": "5C99D62F", 
+        "Value": "31.6R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R19", 
+        "Tstamp": "5C99B509", 
+        "Value": "255R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R20", 
+        "Tstamp": "5C99AF8B", 
+        "Value": "255R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R21", 
+        "Tstamp": "5C9C1AF8", 
+        "Value": "1k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R22", 
+        "Tstamp": "5C99D628", 
+        "Value": "68.1R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R23", 
+        "Tstamp": "5C99CBE2", 
+        "Value": "68.1R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R24", 
+        "Tstamp": "5C9B2C4A", 
+        "Value": "1k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R25", 
+        "Tstamp": "5C99B97B", 
+        "Value": "274R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R26", 
+        "Tstamp": "5C99B39F", 
+        "Value": "274R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R27", 
+        "Tstamp": "5C99D640", 
+        "Value": "500R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R28", 
+        "Tstamp": "5C99E488", 
+        "Value": "500R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R29", 
+        "Tstamp": "5C9AC369", 
+        "Value": "4k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R30", 
+        "Tstamp": "5C9BF0DB", 
+        "Value": "4k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R31", 
+        "Tstamp": "5C9F02F1", 
+        "Value": "50R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R32", 
+        "Tstamp": "5C9D9D19", 
+        "Value": "50R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R33", 
+        "Tstamp": "5C9D9D27", 
+        "Value": "50R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R34", 
+        "Tstamp": "5C9E420B", 
+        "Value": "50R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R35", 
+        "Tstamp": "5C9E4219", 
+        "Value": "50R"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Package_TO_SOT_SMD:SOT-23-5", 
+        "Ref": "U2", 
+        "Tstamp": "5CD09111", 
+        "Value": "OPA656"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm", 
+        "Ref": "U3", 
+        "Tstamp": "5CB823F8", 
+        "Value": "CAT5140ZI-00-GT3"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "digikey-footprints:SOIC-8_W5.3mm", 
+        "Ref": "U4", 
+        "Tstamp": "5CB9553C", 
+        "Value": "TMP1075"
+    }, 
+    {
+        "Datasheet": "http://www.ti.com/lit/ds/symlink/lm337-n.pdf", 
+        "Footprint": "digikey-footprints:SOT-223-4", 
+        "Ref": "U5", 
+        "Tstamp": "5CDA79EF", 
+        "Value": "LM337_SOT223"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Package_TO_SOT_SMD:SOT-23-5", 
+        "Ref": "U6", 
+        "Tstamp": "5CC0E18A", 
+        "Value": "MCP3021"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Package_SO:TI_SO-PowerPAD-8", 
+        "Ref": "U7", 
+        "Tstamp": "5C99B30B", 
+        "Value": "LMH6553"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Package_SO:TI_SO-PowerPAD-8", 
+        "Ref": "U8", 
+        "Tstamp": "5C99ABF4", 
+        "Value": "LMH6553"
+    }
+]

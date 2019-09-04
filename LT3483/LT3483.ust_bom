@@ -1,0 +1,147 @@
+[
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C1", 
+        "Tstamp": "5CB60D80", 
+        "Value": "4.7uF/30V"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C2", 
+        "Tstamp": "5CE7E698", 
+        "Value": "100nF/30V"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C3", 
+        "Tstamp": "5CB85DFF", 
+        "Value": "0.1uF/50V"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C4", 
+        "Tstamp": "5CB612E1", 
+        "Value": "5pF/50V"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C5", 
+        "Tstamp": "5CB75F42", 
+        "Value": "1uF/50V"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C6", 
+        "Tstamp": "5CE98137", 
+        "Value": "100nF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C7", 
+        "Tstamp": "5CE919BA", 
+        "Value": "100nF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Capacitor_SMD:C_0805_2012Metric", 
+        "Ref": "C8", 
+        "Tstamp": "5CE855F0", 
+        "Value": "1uF/50V"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Diode_SMD:D_SOD-123", 
+        "Ref": "D1", 
+        "Tstamp": "5CB85ECA", 
+        "Value": "MBR0540"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical", 
+        "Ref": "J1", 
+        "Tstamp": "5CC336FD", 
+        "Value": "Conn_02x03_Odd_Even"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical", 
+        "Ref": "J2", 
+        "Tstamp": "5CC2F715", 
+        "Value": "Conn_02x04_Odd_Even"
+    }, 
+    {
+        "Datasheet": "https://componentsearchengine.com/Datasheets/1/LQH2MCN100K02L.pdf", 
+        "Description": "Murata LQH2MC_02 Series Wire-wound SMD Inductor 10 uH +/-10% 225mA Idc", 
+        "Footprint": "digikey-footprints:LQH2MCN100K02L", 
+        "Manufacturer_Name": "Murata Electronics", 
+        "Manufacturer_Part_Number": "LQH2MCN100K02L", 
+        "Mouser Part Number": "81-LQH2MCN100K02L", 
+        "Mouser Price/Stock": "https://www.mouser.com/Search/Refine.aspx?Keyword=81-LQH2MCN100K02L", 
+        "Ref": "L1", 
+        "Tstamp": "5CB8D0D4", 
+        "Value": "LQH2MCN100K02L"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "MountingHole:MountingHole_3mm_Pad", 
+        "Ref": "MH1", 
+        "Tstamp": "5CBEF505", 
+        "Value": "M1"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "MountingHole:MountingHole_3mm_Pad", 
+        "Ref": "MH2", 
+        "Tstamp": "5CBEF583", 
+        "Value": "M2"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "MountingHole:MountingHole_3mm_Pad", 
+        "Ref": "MH3", 
+        "Tstamp": "5CBEF5D3", 
+        "Value": "M3"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "MountingHole:MountingHole_3mm_Pad", 
+        "Ref": "MH4", 
+        "Tstamp": "5CBEF617", 
+        "Value": "M4"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R1", 
+        "Tstamp": "5CB87E3E", 
+        "Value": "39R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R2", 
+        "Tstamp": "5CB611EB", 
+        "Value": "3.2M"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Resistor_SMD:R_0805_2012Metric", 
+        "Ref": "R3", 
+        "Tstamp": "5CE85592", 
+        "Value": "100R"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Package_TO_SOT_SMD:TSOT-23-6", 
+        "Ref": "U1", 
+        "Tstamp": "5CB70845", 
+        "Value": "LT3483"
+    }
+]

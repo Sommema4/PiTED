@@ -1,0 +1,44 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# LQH2MCN100K02L-SamacSys_Parts
+#
+DEF LQH2MCN100K02L-SamacSys_Parts L 0 30 Y Y 1 F N
+F0 "L" 650 250 50 H V L CNN
+F1 "LQH2MCN100K02L-SamacSys_Parts" 650 150 50 H V L CNN
+F2 "LQH2M" 650 50 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/LQH2MCN100K02L.pdf" 650 -50 50 H I L CNN
+F4 "Murata LQH2MC_02 Series Wire-wound SMD Inductor 10 uH +/-10% 225mA Idc" 650 -150 50 H I L CNN "Description"
+F5 "81-LQH2MCN100K02L" 650 -350 50 H I L CNN "Mouser Part Number"
+F6 "https://www.mouser.com/Search/Refine.aspx?Keyword=81-LQH2MCN100K02L" 650 -450 50 H I L CNN "Mouser Price/Stock"
+F7 "Murata Electronics" 650 -550 50 H I L CNN "Manufacturer_Name"
+F8 "LQH2MCN100K02L" 650 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+A 250 -2 50 -2 177 0 1 6 N 300 0 200 0
+A 350 -2 50 -2 177 0 1 6 N 400 0 300 0
+A 450 -2 50 -2 177 0 1 6 N 500 0 400 0
+A 550 -2 50 -2 177 0 1 6 N 600 0 500 0
+X ~ 1 0 0 200 R 50 50 0 0 B
+X ~ 2 800 0 200 L 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+# LT3483-LT3483
+#
+DEF LT3483-LT3483 U 0 40 Y Y 1 F N
+F0 "U" -250 400 50 H V C CNN
+F1 "LT3483-LT3483" 150 -400 50 H V C CNN
+F2 "" 50 0 50 H I C CNN
+F3 "" 50 0 50 H I C CNN
+DRAW
+S -300 350 300 -350 0 1 0 N
+X SW 1 0 450 100 D 50 50 1 1 I
+X GND 2 0 -450 100 U 50 50 1 1 I
+X FB 3 400 -100 100 L 50 50 1 1 O
+X ~SHDN 4 -400 -100 100 R 50 50 1 1 I
+X D 5 400 100 100 L 50 50 1 1 O
+X Vin 6 -400 100 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 "Author: Marek Sommer"
 $EndDescr
 $Comp
-L SamacSys_Parts:TPS65133DPDR IC1
+L TPS65133_2-rescue:TPS65133DPDR-SamacSys_Parts IC1
 U 1 1 5CC9FF14
 P 4600 2950
 F 0 "IC1" H 5200 3215 50  0000 C CNN
@@ -32,7 +32,7 @@ F 9 "TPS65133DPDR" H 5650 2350 50  0001 L CNN "Manufacturer_Part_Number"
 	1    0    0    -1  
 $EndComp
 $Comp
-L SamacSys_Parts:1239AS-H-4R7M=P2 L1
+L TPS65133_2-rescue:1239AS-H-4R7M=P2-SamacSys_Parts L1
 U 1 1 5CCA0079
 P 4800 2250
 F 0 "L1" H 5200 2475 50  0000 C CNN
@@ -49,7 +49,7 @@ F 9 "1239AS-H-4R7M=P2" H 5450 1600 50  0001 L CNN "Manufacturer_Part_Number"
 	1    0    0    -1  
 $EndComp
 $Comp
-L SamacSys_Parts:1239AS-H-4R7M=P2 L2
+L TPS65133_2-rescue:1239AS-H-4R7M=P2-SamacSys_Parts L2
 U 1 1 5CCA00D1
 P 6500 3650
 F 0 "L2" V 6854 3738 50  0000 L CNN

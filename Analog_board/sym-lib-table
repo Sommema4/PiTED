@@ -9,4 +9,5 @@
   (lib (name 2019-04-16_13-26-05)(type Legacy)(uri ${KIPRJMOD}/ul_CAT5140ZI00GT3/KiCAD/2019-04-16_13-26-05/2019-04-16_13-26-05.lib)(options "")(descr ""))
   (lib (name TMP1075)(type Legacy)(uri C:/Users/somme/Dropbox/KiCad/Analog_board/TMP1075.lib)(options "")(descr ""))
   (lib (name MCP3021)(type Legacy)(uri C:/Users/somme/Dropbox/KiCad/Analog_board/MCP3021.lib)(options "")(descr ""))
+  (lib (name Analog_board-rescue)(type Legacy)(uri ${KIPRJMOD}/Analog_board-rescue.lib)(options "")(descr ""))
 )
